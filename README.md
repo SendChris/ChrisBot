@@ -1,7 +1,6 @@
 # Alle - ChrisBot
 Chat with my AI Bot 🤖 
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -27,6 +26,7 @@ Chat with my AI Bot 🤖
 <body>
     <div class="apple2e">
         <p>Hello, world!</p>
+     <p>Click on the e icon below to begin...</p>
     </div>
 <script>window.__EESEL_WELCOME_MSG="👋 Hi! How can I help you today?";window.__EESEL_BOT_NAME="Chat with my AI Bot 🤖 ";window.__EESEL_NAMESPACE="0d317e73-dc55-4b8d-bf0a-b6412288e2b6";var e=document.createElement("script");e.src="https://cdn.eesel.ai/ChatWidget.prod.js",e.onload=function(){ChatWidget.default()},document.body.appendChild(e);</script>
 </body>
