@@ -25,6 +25,6 @@
     <div class="apple2e">
         <p>Hello, world!</p>
     </div>
-<script>window.__EESEL_WELCOME_MSG="👋 Hi! How can I help you today?";window.__EESEL_BOT_NAME="Chat with my AI Bot 🤖 ";window.__EESEL_NAMESPACE="0d317e73-dc55-4b8d-bf0a-b6412288e2b6";var e=document.createElement("script");e.src="https://cdn.eesel.ai/ChatWidget.prod.js",e.onload=function(){ChatWidget.default()},document.body.appendChild(e);</script>
+<script>window.__EESEL_WELCOME_MSG="👋 Hi! How can I help you today?";window.__EESEL_BOT_NAME="Chat with my AI Bot 🤖";window.__EESEL_NAMESPACE="313e54e7-8651-455b-9c05-3566798b5afb";var e=document.createElement("script");e.src="https://cdn.eesel.ai/ChatWidget.prod.js",e.onload=function(){ChatWidget.default()},document.body.appendChild(e);</script>
 </body>
 </html>
